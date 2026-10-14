@@ -74,7 +74,7 @@
   "bugs": {
     "url": "https://github.com/ajayks012/cron-schedule-kit/issues"
   },
-  "homepage": "https://github.com/ajayks012/cron-schedule-kit#readme",
+  "homepage": "https://ajayks012.github.io/cron-schedule-kit",
   "devDependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^7.0.1",
