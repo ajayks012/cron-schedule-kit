@@ -2,7 +2,7 @@
 
 > **Zero-dependency (< 3 KB gzipped) 5-part cron generator, parser, validator, and human-readable describer — with headless and drop-in React components.**
 
-[![CI](https://github.com/ajay/cron-schedule-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/ajay/cron-schedule-kit/actions)
+[![CI](https://github.com/ajayks012/cron-schedule-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/ajayks012/cron-schedule-kit/actions)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-blue.svg)](https://www.typescriptlang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)]()

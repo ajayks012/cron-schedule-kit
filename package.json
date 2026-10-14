@@ -65,12 +65,16 @@
     "zero-dependency",
     "cron-timezone"
   ],
-  "author": "",
+  "author": "Ajay K S <ajayks1729@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajay/cron-schedule-kit"
+    "url": "git+https://github.com/ajayks012/cron-schedule-kit.git"
   },
+  "bugs": {
+    "url": "https://github.com/ajayks012/cron-schedule-kit/issues"
+  },
+  "homepage": "https://github.com/ajayks012/cron-schedule-kit#readme",
   "devDependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^7.0.1",
